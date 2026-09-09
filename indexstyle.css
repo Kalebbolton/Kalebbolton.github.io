@@ -7,3 +7,8 @@ p {
   font-family: verdana;
   font-size: 15px;
 }
+
+table border{
+  color: green;
+  width: 10;
+}
