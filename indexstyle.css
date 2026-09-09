@@ -12,3 +12,15 @@ table border{
   color: green;
   width: 10;
 }
+
+a:link {
+  color: black;
+  font-size:15px;
+}
+
+a:visited {
+  color: light blue;
+}
+a:hover{
+  color: dark blue;
+}
