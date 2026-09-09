@@ -1,3 +1,9 @@
 body {
   background-color: #FFFDD0;
 }
+
+p {
+  color: black ;
+  font-family: verdana;
+  font-size: 15px;
+}
