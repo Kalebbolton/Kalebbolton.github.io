@@ -22,4 +22,11 @@ p {
   font-family: verdana;
   font-size: 15px;
 }
+
+.grades{
+  float:left;
+  border: 2px outset black;
+  background: yellow;
+  width:20%;
+  height:200px;
   
